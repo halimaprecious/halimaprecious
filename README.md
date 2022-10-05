@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Precious Halima</h1>
+<h2 align="center">Hi there👋, I'm Precious Halima</h2>
 
 <hr>
 
@@ -16,14 +16,3 @@
 
 
 
-## Contact 📫 
-
-<p>
-  <a href="https://www.linkedin.com/in/precious-halima" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
- 
-  <a href="#" rel="nofollow noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20px" height="20px"> Email
-  </a>
-</p>
